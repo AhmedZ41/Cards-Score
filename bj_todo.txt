@@ -1,0 +1,5 @@
+- Spielfeld anzeigen vor der Bildanalyse
+- Topmatch text höher 
+- Gewinner anzeige
+- Manchmal stimmt top-match nicht --> vlt nur king_2 etc. nehmen
+- Karten mit random rauchen etc. belegen und diese anzeigen.
